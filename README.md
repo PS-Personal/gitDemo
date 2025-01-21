@@ -1,0 +1,8 @@
+# gitDemo
+
+
+Fine-grained Personal access token for github(gitDemo repository)
+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
+
+Classic token——
+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
